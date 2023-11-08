@@ -1,1 +1,0 @@
-package com.hubindeveloper.lottery.rpc;

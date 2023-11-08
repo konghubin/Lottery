@@ -4,12 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.hubindeveloper.ai</groupId>
+        <groupId>com.hubindeveloper.lottery</groupId>
         <artifactId>Lottery</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>Lottery-common</artifactId>
+
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
